@@ -1,0 +1,4 @@
+[package]
+identifier = "com.yourcompany.kidsaz"
+name = "Kids A-Z"
+icon = ["icon.icns"]
